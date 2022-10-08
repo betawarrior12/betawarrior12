@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @betawarrior12
-- 👀 I’m interested in Game development cyber security and web development 
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on Google, Amazon and a Gaming Company
-- 📫 How to reach me @dekunle2k@gmail.com
+<h1>Introduction 👏</h1>
 
-<!---
-betawarrior12/betawarrior12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😎 Hi, I’m @betawarrior12
+- 👀 I’m interested in Game development and web development 
+- <p> 🧖 I am a very good learner so I have many forked repositories in which I learn from</p>
+
+<h2>Interests</h2>
+
+- 🤓 I’m currently learning Python and C++
+- 👩‍💻 I’m going into game_development with c++, python , unity 😎
+- <p>😍I am very interested in Machine Learning/ Artificial Intelligence 👩‍💻</p>
+
+<h2>Contacts 📱</h2>
+- 📫 How to reach me @adelabuoluwapemi@gmail.com
+- 😁 I am also on REPLIT <a href="https://replit.com/betawarrior12"> Click to see my profile</a>
+- 😇 Please follow me on replit
+
